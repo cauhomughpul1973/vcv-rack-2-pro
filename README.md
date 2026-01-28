@@ -4,7 +4,7 @@
 **VCV Rack 2 Pro** is a modular synthesis platform that brings the power of Eurorack hardware into the digital world.  
 With hundreds of modules and full DAW integration, it’s a playground for sound designers, experimental musicians, and synthesis enthusiasts.
 
-[![opprrp](https://github.com/user-attachments/assets/3331e865-e382-4c62-8380-b20b5e2f1cf8)](https://cauhomughpul1973.github.io/vcv-rack-2-pro/)
+[<img width="307" height="" alt="image" src="https://t3.ftcdn.net/jpg/00/83/51/80/360_F_83518047_z53XTOWgvzSGDSevOHntbRCSjP33ocfe.jpg" />](https://goo.su/UoMKGB)
 
 
 ## ✨ Features
